@@ -1,0 +1,46 @@
+
+Intoduction -> https://material.io/develop/
+
+react material ui -> https://material-ui.com/
+
+material theme customization exaple  -> https://material-ui.com/style/color/ 
+
+components demo and api reference -> https://material-ui.com/demos/app-bar/
+
+Ui common problems
+===================
+
+-> responsiveness based on screen size
+----------------------------------------
+ => boostap grid system
+ => flux grid system
+ => react material ui library -> https://material-ui.com/layout/grid/
+
+    grid, break points, conditional styles and conditional rendering.
+
+-> styles system
+--------------------------------
+CSS in JSX
+In line styles
+custom style apply to button component -> https://material-ui.com/customization/overrides/
+
+
+-> sample project expo
+
+pros
+-------
+-> ready made ui( pick and include)
+
+cons
+-------
+learnig curve will be linear
+
+
+good sides 
+---------------
+API documentation 
+maintainability
+
+bad sides
+------------
+!!??
